@@ -1,0 +1,7 @@
+1-) Clone from git lab
+2-) Composer Install
+    -> Generate & Download Laravel Libraries & Framework
+3-) copy - paste .env.example file
+4-) remove .example & copy word
+5-) php artisan key:generate
+6-) Update database name, username, password
